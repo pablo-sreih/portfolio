@@ -6,14 +6,11 @@ body{
 }
 
 .container{
-    width:80%;
+    width:90%;
     margin: auto;
 }
 
 .box-1{
-    /* background: #eb01a5; */
-    /* background-image: url(../assets/images/pp.jpg); */
-    /* background-image: url(../assets/images/pp.jpg) no-repeat; */
     background: -webkit-linear-gradient(left, rgba(0,0,0,1) 40%, rgba(255,0,0,0)), url("../assets/images/pp.jpg") center center no-repeat;
     background-size:cover;
     color: white;
